@@ -1,6 +1,4 @@
 # Login_Automation
-Automação do login do site Americanas.com.br usando C# e Selenium
-
 Esse projeto foi criado usando a linguagem C#, e o framework Selenium.
 
 Para rodar o projeto é necessário as seguintes configurações:
