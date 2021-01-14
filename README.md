@@ -4,7 +4,7 @@ Esse projeto foi criado usando a linguagem C#, e o framework Selenium.
 Para rodar o projeto é necessário as seguintes configurações:
 
 
-- Ter uma IDE que rode projetos em c#, recomendo que utilize o Visual Studio.
+- Ter uma IDE que rode projetos em C#, recomendo que utilize o Visual Studio.
 
 - Clone esse projeto na IDE, aguarde até todo o projeto ser buildado.
 
